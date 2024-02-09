@@ -2,9 +2,11 @@
 
 This is an to-do list application made using react.
 
-You can add new task.
-Move it up or down.
-This program will not take empty strings as input.
+### Functionality 
+
+* You can add new task.
+* Move it up or down.
+* This program will not take empty strings as input.
 
 
 > The GUI
