@@ -1,6 +1,6 @@
 # To do list app using React
 
-This is an to-do list application made using react.
+This is a to-do list application made using react.
 
 ### Functionality 
 
